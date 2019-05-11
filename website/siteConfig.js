@@ -22,7 +22,7 @@ const users = [
 
 const siteConfig = {
   title: 'Substrate Developers\' Hub', // Title for your website.
-  tagline: 'Replace this landing page with Eric\'s design',
+  tagline: 'Replace the landing page with Eric\'s design',
 
   url: 'https://joshorndorff.github.io/', // Your website URL
   baseUrl: '/substrate-developer-hub/', // Base URL for your project */
