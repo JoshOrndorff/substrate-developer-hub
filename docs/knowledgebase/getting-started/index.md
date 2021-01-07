@@ -28,7 +28,7 @@ brew update
 brew install openssl cmake
 ```
 
-### Ubuntu/Debian
+###  Ubuntu/Debian
 
 Use a terminal shell to execute the following commands:
 
